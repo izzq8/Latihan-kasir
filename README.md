@@ -14,6 +14,3 @@ Proyek ini merupakan implementasi integrasi frontend (React) dan backend (Node.j
 - Backend: Node.js dengan Express
 - Database: MySQL
 
-## Cara Menjalankan
-
-1. Backend:
